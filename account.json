@@ -1,0 +1,9 @@
+{
+  "serverProtocol": true,
+  "serverPort": 4000,
+  "serverPath": "users/",
+  "serverAddress": "http://localhost",
+  "password": "test12tewt",
+  "username": "test@test.com",
+  "accountType": "ADVANCED"
+}
